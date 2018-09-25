@@ -16,14 +16,14 @@
 - DFC-VAE
 - InfoVAE
 
-### Generative Adversarial Networks (GANs)
+### Generative Adversarial Networks (GANs) | Wenbin, 09/28/2018
 
-- Vanilla GAN
-- Conditional GAN
-- InfoGAN
-- Wasserstein GAN
-- f-GAN
-- cycle-GAN
+- Vanilla GAN (https://arxiv.org/abs/1406.2661)
+- Conditional GAN (https://arxiv.org/abs/1411.1784)
+- InfoGAN (https://arxiv.org/abs/1606.03657)
+- Wasserstein GAN (https://arxiv.org/abs/1701.07875, https://arxiv.org/abs/1704.00028)
+- f-GAN (https://arxiv.org/abs/1606.00709)
+- cycle-GAN (https://arxiv.org/abs/1703.10593)
 
 ### Reinforcement Learning
 
