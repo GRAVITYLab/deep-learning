@@ -16,7 +16,7 @@
 - DFC-VAE
 - InfoVAE
 
-### Generative Adversarial Networks (GANs) | Wenbin, 09/28/2018
+### Generative Adversarial Networks (GANs) | Wenbin, 09/28/2018 ([slides](assets/slides/GANs.pptx))
 
 - Vanilla GAN (<https://arxiv.org/abs/1406.2661>)
 - Conditional GAN (<https://arxiv.org/abs/1411.1784>)
