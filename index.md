@@ -27,7 +27,7 @@
 
 ### Reinforcement Learning
 
-- DQN
+- DQN | Junpeng, 10/19/2018 ([slides](assets/slides/dqnviz_lab.pdf))
 - A3C
 - AlphaGo
 
